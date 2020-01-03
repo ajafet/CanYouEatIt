@@ -10,8 +10,7 @@ Can You Eat It is a mobile application for both iOS and Android that scans the b
 
 Can You Eat It consits of a primary page that asks for the users name and their allergens. After the user inputs their information, a second page is shown with a camera icon. Pressing the camera icon will open their camera to scan a barcode. Once the camera detects a valid barcode, an alert dialog is shown with the foods description, ingredients and allergens found. 
 
-[![Alt text](/Images/1.png?raw=true)]
-(https://www.youtube.com/watch?v=XsmLzbadh4U)
+[![Alt text](/Images/1.png?raw=true)](https://www.youtube.com/watch?v=XsmLzbadh4U)
 
 ### Installation 
 
